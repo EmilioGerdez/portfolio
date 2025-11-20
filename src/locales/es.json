@@ -1,0 +1,43 @@
+{
+    "hero": {
+        "title": "Emilio Gerdez",
+        "subtitle": "Desarrollador Full Stack y Tecnólogo Creativo",
+        "cta": "Ver Trabajos"
+    },
+    "about": {
+        "title": "Sobre Mí",
+        "p1": "Soy un apasionado Desarrollador Full Stack con un profundo interés en construir aplicaciones web escalables y de alto rendimiento. Con una sólida base tanto en tecnologías backend como frontend, uno la brecha entre la lógica compleja y las interfaces de usuario hermosas.",
+        "p2": "Mi enfoque combina precisión técnica con resolución creativa de problemas. Ya sea optimizando una consulta de base de datos o creando una animación fluida, me esfuerzo por la excelencia en cada línea de código."
+    },
+    "techStack": {
+        "title": "Stack Tecnológico",
+        "frontend": "Frontend",
+        "backend": "Backend",
+        "devops": "DevOps"
+    },
+    "projects": {
+        "title": "Proyectos Destacados",
+        "p1": {
+            "title": "Motor de Trading Algorítmico",
+            "desc": "Sistema de trading de alta frecuencia construido con Go y gRPC. Cuenta con procesamiento de datos de mercado en tiempo real y ejecución en submilisegundos."
+        },
+        "p2": {
+            "title": "SaaS de Laboratorio Clínico",
+            "desc": "Sistema integral de gestión de laboratorios. Maneja datos de pacientes, seguimiento de muestras y reportes automatizados."
+        },
+        "p3": {
+            "title": "Dashboard de Analítica Crypto",
+            "desc": "Dashboard en tiempo real para monitorear activos de criptomonedas. Se integra con la API de Binance para actualizaciones de precios en vivo."
+        },
+        "code": "Código",
+        "demo": "Demo en Vivo"
+    },
+    "contact": {
+        "title": "Conectemos",
+        "desc": "Actualmente estoy disponible para trabajo freelance y abierto a oportunidades de tiempo completo. Si tienes un proyecto que necesita magia tecnológica creativa, hablemos.",
+        "name": "Nombre",
+        "email": "Correo",
+        "message": "Mensaje",
+        "send": "Enviar Mensaje"
+    }
+}

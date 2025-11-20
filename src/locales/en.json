@@ -1,0 +1,43 @@
+{
+    "hero": {
+        "title": "Emilio Gerdez",
+        "subtitle": "Full Stack Developer & Creative Technologist",
+        "cta": "View Work"
+    },
+    "about": {
+        "title": "About Me",
+        "p1": "I am a passionate Full Stack Developer with a deep interest in building scalable, high-performance web applications. With a strong foundation in both backend and frontend technologies, I bridge the gap between complex logic and beautiful user interfaces.",
+        "p2": "My approach combines technical precision with creative problem-solving. Whether it's optimizing a database query or crafting a fluid animation, I strive for excellence in every line of code."
+    },
+    "techStack": {
+        "title": "Tech Stack",
+        "frontend": "Frontend",
+        "backend": "Backend",
+        "devops": "DevOps"
+    },
+    "projects": {
+        "title": "Featured Projects",
+        "p1": {
+            "title": "Algorithmic Trading Engine",
+            "desc": "High-frequency trading system built with Go and gRPC. Features real-time market data processing and sub-millisecond execution."
+        },
+        "p2": {
+            "title": "Clinical Lab SaaS",
+            "desc": "Comprehensive laboratory management system. Handles patient data, sample tracking, and automated reporting."
+        },
+        "p3": {
+            "title": "Crypto Analytics Dashboard",
+            "desc": "Real-time dashboard for monitoring cryptocurrency assets. Integrates with Binance API for live price updates."
+        },
+        "code": "Code",
+        "demo": "Live Demo"
+    },
+    "contact": {
+        "title": "Let's Connect",
+        "desc": "I'm currently available for freelance work and open to full-time opportunities. If you have a project that needs some creative tech magic, let's talk.",
+        "name": "Name",
+        "email": "Email",
+        "message": "Message",
+        "send": "Send Message"
+    }
+}
